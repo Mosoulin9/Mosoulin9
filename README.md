@@ -37,7 +37,7 @@
 
 ## 🌐 Organisations 
 🌐 [NM-ByteLab](https://nm-bytelab.com)  
-🌐 [TenantHut](https://tenanthuts..com)   
+🌐 [TenantHut](https://tenanthuts.com)   
 
 
 ---
